@@ -1,0 +1,7 @@
+D:\Xavier\SUMMONIDEA\BLOGGING\revit-content-management-explorer\revit-content-management-explorer\obj\Debug\revit-content-management-explorer.csprojAssemblyReference.cache
+D:\Xavier\SUMMONIDEA\BLOGGING\revit-content-management-explorer\revit-content-management-explorer\obj\Debug\revit-content-management-explorer.csproj.CoreCompileInputs.cache
+D:\Xavier\SUMMONIDEA\BLOGGING\revit-content-management-explorer\revit-content-management-explorer\bin\Debug\ContentExplorer.dll
+D:\Xavier\SUMMONIDEA\BLOGGING\revit-content-management-explorer\revit-content-management-explorer\bin\Debug\ContentExplorer.pdb
+D:\Xavier\SUMMONIDEA\BLOGGING\revit-content-management-explorer\revit-content-management-explorer\obj\Debug\ContentExplorer.dll
+D:\Xavier\SUMMONIDEA\BLOGGING\revit-content-management-explorer\revit-content-management-explorer\obj\Debug\ContentExplorer.pdb
+D:\Xavier\SUMMONIDEA\BLOGGING\revit-content-management-explorer\revit-content-management-explorer\bin\Debug\ContentExplorer.addin

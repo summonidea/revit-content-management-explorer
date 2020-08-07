@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>ContentExplorer.dll</Assembly>
+    <AddInId>3a89f8f1-096f-49fb-9112-f5f1ebfa91d4</AddInId>
+    <FullClassName>ContentExplorer.Command</FullClassName>
+    <Text>Start Exploring</Text>
+    <VendorId>Vendor</VendorId>
+    <VendorDescription>Your Company Info</VendorDescription>
+    <Name>ContentExplorer</Name>
+  </AddIn>
+
+  <AddIn Type="Application">
+    <Name>ContentExplorer</Name>
+    <Assembly>ContentExplorer.dll</Assembly>
+    <AddInId>315785bc-4a3a-4612-8a59-c4290d0119bf</AddInId>
+    <FullClassName>ContentExplorer.App</FullClassName>
+    <VendorId>Vendor</VendorId>
+    <VendorDescription>Your Company Info</VendorDescription>
+  </AddIn>
+
+</RevitAddIns>
